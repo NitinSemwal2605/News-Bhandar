@@ -1,0 +1,5 @@
+/* Navbar.css */
+.nav-link.active-link {
+    color: #ffffff !important; /* Set the color for the active link */
+  }
+  
